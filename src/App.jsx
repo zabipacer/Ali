@@ -1,14 +1,13 @@
 
 import './App.css'
-
-import MohammadAliPortfolio from './components/AliPortfolio'
+import LandingPage from './components/LandingPage'
 
 function App() {
  
 
   return (
     <>
-<MohammadAliPortfolio/>
+<LandingPage/>
 
     </>
   )
